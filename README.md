@@ -348,7 +348,7 @@ Intelligent Response
 ### Aryan Gour
 
 B.Tech Artificial Intelligence Student  
-Python • AI/ML • Web Development
+Python • Web Development
 
 🐙 **GitHub:**  
 https://github.com/Aryan-gour127
