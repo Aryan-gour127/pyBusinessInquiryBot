@@ -1,13 +1,20 @@
 from botResponses import Bot
 
+
+print("-" * 50)
+print("     AI BY ARYAN - BUSINESS BOT")
+print("-" * 50)
+print("Type 'exit' to leave the chatbot.\n")
+
+
 while True:
 
-    message = input("you : ")
+    message = input("You: ")
 
-    if message.lower() == "exit":
-        print("Thank you For visting Us!")
+    if message.lower().strip() == "exit":
+        print("Bot: Thank you for visiting AI by Aryan!")
         break
 
     response = Bot(message)
 
-    print("bot :",response)
+    print(f"Bot: {response}\n")
